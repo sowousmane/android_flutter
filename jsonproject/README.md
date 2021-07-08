@@ -9,6 +9,6 @@
 And don't forget to add 
 #### http : ^0.13.3 
 in your dependencies that are in your pubspec.yaml and of course you have to click on
-* pub get
+* pub get  
  or write this in your cmd/terminal
  * flutter put get
