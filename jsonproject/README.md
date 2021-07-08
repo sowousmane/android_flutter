@@ -3,9 +3,12 @@
 
 * flutter create jsonproject 
 
-#### And copy the main.dart file that we have here
+#### And copy the main.dart file we have here
 * to change your main.dart which is in your lib directory by this one.
 
-And then don't forget to add 
-####  http: ^0.13.3 
-In your dependencices wich is in your pubspec.yaml and ofcourse you have to click on  pub get or tape this on commande in line
+And don't forget to add 
+#### http : ^0.13.3 
+in your dependencies that are in your pubspec.yaml and of course you have to click on
+* pub get
+ or write this in your cmd/terminal
+ * flutter put get
