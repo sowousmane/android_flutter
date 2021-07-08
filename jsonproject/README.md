@@ -1,5 +1,5 @@
 ## To create the project 
-## Type
+## write in cmd or terminal
 - flutter create jsonproject   
 
 #### And copy the main.dart file that we have here
